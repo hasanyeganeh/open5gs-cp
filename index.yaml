@@ -3,7 +3,7 @@ entries:
   open5gs-cp:
   - apiVersion: v2
     appVersion: 2.4.11
-    created: "2024-04-25T12:27:45.867372648Z"
+    created: "2024-04-25T12:46:53.320358263Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -30,7 +30,7 @@ entries:
       repository: file://../open5gs-webui
       version: ~2.1.0
     description: 'Helm chart to deploy Open5gs services on Kubernetes. '
-    digest: 6a166ffee34e9934df45df7e93244ac29b0818268a02ec6d96c843675f97033b
+    digest: 648980fa8f8fddf3529be98ec36f8811d013603c55a539bc6a2e4490dbbf609e
     icon: https://open5gs.org/assets/img/open5gs-logo.png
     keywords:
     - epc
@@ -42,4 +42,4 @@ entries:
     urls:
     - open5gs-cp-2.1.0.tgz
     version: 2.1.0
-generated: "2024-04-25T12:27:45.837725717Z"
+generated: "2024-04-25T12:46:53.288506491Z"
