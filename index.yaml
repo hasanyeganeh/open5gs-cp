@@ -13,7 +13,7 @@ entries:
     - condition: mongodb.enabled
       name: mongodb
       repository: https://charts.bitnami.com/bitnami
-      version: ~12.1.19
+      version: ~14.3.2
     - alias: nrf
       condition: nrf.enabled
       name: open5gs-nrf
